@@ -32,5 +32,5 @@ int main()
         printf("Nenhum filho terminou\n");
     }
 
-	return 0;
+    return 0;
 }

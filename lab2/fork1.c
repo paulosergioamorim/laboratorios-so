@@ -13,8 +13,8 @@ int main()
     else if (pid == 0)
     { // Child process.
         printf("[CHILD]: I'm finished.\n");
-		pause();
-       return 42;
+        pause();
+        return 42;
     }
     else
     { // Parent process.
